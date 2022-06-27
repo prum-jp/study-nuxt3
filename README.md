@@ -15,6 +15,12 @@
 yarn install
 ```
 
+### Visual Studio Code Extensions
+
+| name | url |
+|---|---|
+| Editor Config | https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig |
+
 ## Start Development Server
 
 Start the development server on http://localhost:3000
