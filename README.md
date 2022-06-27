@@ -1,28 +1,26 @@
-# Nuxt 3 Minimal Starter
+# リザくる - フロントリポジトリ
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+## Versions
 
-## Setup
+| name | version | memo |
+|---|---|---|
+| Nuxt | 3.0.0-rc.4 | 正式リリース後、update |
+| Node | 16.15.1 | 最新推奨版LTS ※2022.6.27時点 |
+| Yarn | 1.22.19 | |
 
-Make sure to install the dependencies:
+## Setup (node_modules)
 
 ```bash
 # yarn
 yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
 ```
 
-## Development Server
+## Start Development Server
 
 Start the development server on http://localhost:3000
 
 ```bash
-npm run dev
+yarn dev
 ```
 
 ## Production
@@ -30,13 +28,21 @@ npm run dev
 Build the application for production:
 
 ```bash
-npm run build
+yarn build
 ```
 
 Locally preview production build:
 
 ```bash
-npm run preview
+yarn preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+
+### Vercel ※デプロイ予定先、未対応
+
+https://v3.nuxtjs.org/guide/deploy/providers/vercel/
+
+### Nuxt3
+
+Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
