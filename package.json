@@ -1,12 +1,18 @@
 {
   "private": true,
   "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "build": "nuxi build",
+    "dev": "nuxi dev",
+    "start": "nuxi preview",
+    "add:component": "nuxi add component",
+    "add:composable": "nuxi add composable",
+    "add:layout": "nuxi add layout",
+    "add:plugin": "nuxi add plugin",
+    "add:page": "nuxi add page",
+    "add:middleware": "nuxi add middleware",
+    "add:api": "nuxi add api"
   },
   "devDependencies": {
-    "nuxt": "3.0.0-rc.4"
+    "nuxt": "^3.0.0-rc.4"
   }
 }

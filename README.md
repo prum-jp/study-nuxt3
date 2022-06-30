@@ -29,6 +29,22 @@ Start the development server on http://localhost:3000
 yarn dev
 ```
 
+## Creation Files
+
+Check this page. https://v3.nuxtjs.org/api/commands/add
+
+package.jsonにも定義ずみ。
+
+```
+    "add:component": "nuxi add component",
+    "add:composable": "nuxi add composable",
+    "add:layout": "nuxi add layout",
+    "add:plugin": "nuxi add plugin",
+    "add:page": "nuxi add page",
+    "add:middleware": "nuxi add middleware",
+    "add:api": "nuxi add api"
+```
+
 ## Production
 
 Build the application for production:
