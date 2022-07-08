@@ -61,9 +61,11 @@ yarn preview
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
 
-### Vercel ※デプロイ予定先、未対応
+### Vercel ※mainマージでデプロイ走る
 
-https://v3.nuxtjs.org/guide/deploy/providers/vercel/
+https://study-nuxt3.vercel.app/
+
+mainにマージで
 
 ### Nuxt3
 
