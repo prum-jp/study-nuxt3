@@ -65,8 +65,6 @@ Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/prese
 
 https://study-nuxt3.vercel.app/
 
-mainにマージで
-
 ### Nuxt3
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
